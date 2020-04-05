@@ -1,4 +1,4 @@
-# dsemple.isu-gmail.com
+# Dan
 encyption/decryption
 
 Based on the hypserskill encryption/decryption project.
